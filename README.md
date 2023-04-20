@@ -1,5 +1,7 @@
 # Website Logo Harvester
 
+internship interview project
+
 ## Install
 
 -   Clone this repo
